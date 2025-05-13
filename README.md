@@ -12,7 +12,7 @@
 ## ✨ Features
 
 - **Military-Grade Encryption**: AES-256-CBC with HMAC-SHA256 integrity checks
-- **File & Text Support**: Encrypt/decrypt both files and strings
+- **File & Text Support**: Encrypt both files and strings
 - **Progress Tracking**: Beautiful Rich-powered progress bars
 - **Termux Ready**: Fully compatible with Android Termux environments
 - **Key Management**: Secure key storage with master password protection
