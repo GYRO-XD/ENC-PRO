@@ -24,14 +24,13 @@
 
 ## 📱 Termux Installation Guide
 
-### Step 1: Setup Termux
+### Termux Setup 
 ```bash
 pkg update && pkg upgrade -y
 pkg install python clang make libpython -y
 ```
 ## 🚀 Quick Start
 
-### Installation
 ```bash
 pip install your-package-name
 ```
