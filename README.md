@@ -20,10 +20,18 @@
 
 ---
 
+![Termux Support](https://img.shields.io/badge/Termux-Fully_Supported-9cf)
+
+## 📱 Termux Installation Guide
+
+### Step 1: Setup Termux
+```bash
+pkg update && pkg upgrade -y
+pkg install python clang make libpython -y
+```
 ## 🚀 Quick Start
 
 ### Installation
 ```bash
 pip install your-package-name
-
-
+```
