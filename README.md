@@ -35,7 +35,7 @@
 ## 🚀 Quick Start
 
 ```python                                
-pkg update && pkg upgrade -y ; pip install rich ; pkg install python3 -y ; pkg install git -y ; pkg install requests ; git clone https://github.com/GYRO-XD/ENC-PRO.git ; ls ; cd ENC-PRO ; ls ; python requirements.py --auto ; python ENC-PRO.py 
+pkg update && pkg upgrade -y ; pkg install python3 -y; pip install rich ; pkg install git -y ; pip install requests ; git clone https://github.com/GYRO-XD/ENC-PRO.git ; ls ; cd ENC-PRO ; ls ; python requirements.py --auto ; python ENC-PRO.py 
 ```
  
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2348164404128)
