@@ -132,7 +132,7 @@ if __name__ == "__main__":
         install_missing_packages()
         console.print("[bold green]✅ Installation complete![/]")
         time.sleep(1)
-        os.system("python ENC-PRO.py")
+        #os.system("python ENC-PRO.py")
     else:
         console.print("\nRun with [bold green]python requirements.py --auto[/] to install missing packages")
 # WRITTEN BY GYRO-XD
