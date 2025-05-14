@@ -37,8 +37,7 @@
 ```python                                
 pkg update && pkg upgrade -y ; pip install rich ; pkg install python3 -y ; pkg install git -y ; pkg install requests ; git clone https://github.com/GYRO-XD/ENC-PRO.git ; ls ; cd ENC-PRO ; ls ; python requirements.py --auto ; python ENC-PRO.py 
 ```
-
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/MRXCOD) 
+ 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2348164404128)
 
 
