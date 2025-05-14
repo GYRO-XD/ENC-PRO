@@ -1,6 +1,6 @@
 # 🔐 Ultimate Encryption Tool
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/GYRO-XD/ENC-PRO?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-green)
 ![Downloads](https://img.shields.io/pypi/dm/your-package-name)
