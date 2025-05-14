@@ -25,12 +25,16 @@
 ## 📱 Termux Installation Guide
 
 ### Termux Setup 
-```bash
-pkg update && pkg upgrade -y
-pkg install python clang make libpython -y
+#### Run script
+```python
+- git clone https://github.com/GYRO-XD/ENC-PRO.git
+- cd ENC-PRO
+- ls
+- python requirements --auto
+- python ENC-PRO.py
 ```
 ## 🚀 Quick Start
 
 ```bash
-pip install your-package-name
+pkg update && upgrade -y
 ```
