@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/GYRO-XD/ENC-PRO?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-green)
-![Termux apk](https://f-droid.org/repo/com.termux_1021.apk)
+[Termux apk](https://f-droid.org/repo/com.termux_1021.apk)
 
 **Ultimate Encryption Tool** is a state-of-the-art Python utility for secure file and text encryption. Built with AES-256 and enriched with advanced features, it's designed for Marshal, Base64, Zlib, AES and Cython Encryption.
 
