@@ -29,7 +29,7 @@
 - git clone https://github.com/GYRO-XD/ENC-PRO.git
 - cd ENC-PRO
 - ls
-- python requirements --auto
+- python requirements.py --auto
 - python ENC-PRO.py
 ```
 ## 🚀 Quick Start
