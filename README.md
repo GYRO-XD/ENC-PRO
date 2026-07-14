@@ -31,7 +31,7 @@
 - ls
 - git pull
 - python requirements.py --auto
-- python ENC-PRO.py
+- python enc-pro.py
 ```
 ## 🚀 Quick Start
 
